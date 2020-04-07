@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         //how many users we want to add
-        System.out.println("Enter numb of student: ");
+        System.out.println("Enter Number of student: ");
 
         Scanner scanner=new Scanner(System.in);
         int numbStudent=scanner.nextInt();
